@@ -1,0 +1,434 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bit<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.algorithm.Bit",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HeapSort<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.algorithm.HeapSort",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeSort<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.algorithm.MergeSort",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickSort<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.algorithm.QuickSort",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestIncreasingSubsequence<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.LongestIncreasingSubsequence",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NQueens<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.NQueens",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverseInteger<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.ReverseInteger",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TwoSum<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.TwoSum",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestCommonPrefix<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.array.LongestCommonPrefix",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NextPermutation<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.array.NextPermutation",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NonDecreasingArray<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.array.NonDecreasingArray",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverseString<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.array.ReverseString",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpiralMatrix<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.array.matrix.SpiralMatrix",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FactorCombinations<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.backtrack.FactorCombinations",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GenerateParentheses<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.backtrack.GenerateParentheses",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Permutations<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.backtrack.Permutations",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RestoreIpAddresses<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.backtrack.RestoreIpAddresses",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Subsets<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.backtrack.Subsets",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ExcelSheetColumnTitle<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.base.ExcelSheetColumnTitle",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindMinimumInRotatedSortedArray<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.binsearch.FindMinimumInRotatedSortedArray",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SearchA2dMatrix<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.binsearch.SearchA2dMatrix",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SearchA2dMatrixII<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.binsearch.SearchA2dMatrixII",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SearchInRotatedSortedArray<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.binsearch.SearchInRotatedSortedArray",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HammingDistance<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.bit.HammingDistance",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumberOf1Bits<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.bit.NumberOf1Bits",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Utf8Validation<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.bit.Utf8Validation",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ImplementTriePrefixTree<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.design.ImplementTriePrefixTree",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumberOfIslands<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.dfs.NumberOfIslands",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CoinChange<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.dp.CoinChange",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestIncreasingPathInAMatrix<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.dp.LongestIncreasingPathInAMatrix",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaximumSubarray<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.dp.MaximumSubarray",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinimumPathSum<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.dp.MinimumPathSum",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BestTimeToBuyAndSellStockII<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.greedy.BestTimeToBuyAndSellStockII",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IsSubsequence<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.greedy.IsSubsequence",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KthLargestElementInAnArray<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.heap.KthLargestElementInAnArray",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AddTwoNumbers<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.linkedlist.AddTwoNumbers",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeKSortedLists<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.linkedlist.MergeKSortedLists",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeTwoSortedLists<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.linkedlist.MergeTwoSortedLists",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RemoveNthNodeFromEndOfList<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.linkedlist.RemoveNthNodeFromEndOfList",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverseLinkedListII<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.linkedlist.ReverseLinkedListII",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverseList<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.linkedlist.ReverseList",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverseListFirstN<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.linkedlist.ReverseListFirstN",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverseNodesInKGroup<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.linkedlist.ReverseNodesInKGroup",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinimumWindowSubstring<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.slidingwindow.MinimumWindowSubstring",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CountAndSay<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.string.CountAndSay",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryTreeLevelOrderTraversal<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.tree.BinaryTreeLevelOrderTraversal",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryTreePostorderTraversal<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.tree.BinaryTreePostorderTraversal",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryTreePreorderTraversal<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.tree.BinaryTreePreorderTraversal",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ConvertSortedListToBinarySearchTree<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.tree.ConvertSortedListToBinarySearchTree",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InvertBinaryTree<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.tree.InvertBinaryTree",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KthSmallestInLexicographicalOrder<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.tree.KthSmallestInLexicographicalOrder",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SymmetricTree<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.tree.SymmetricTree",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LargestNumber<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.trick.LargestNumber",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestPalindromicSubstring<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.trick.LongestPalindromicSubstring",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThreeSum<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.leetcode.trick.ThreeSum",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AqsLikeLock<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.lock.AqsLikeLock",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DeadLock<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.lock.DeadLock",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReadWriteLock<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.lock.ReadWriteLock",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MemoryVisibility<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.lock.visibility.MemoryVisibility",
+            "projectName": "algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThreadPrint<algorithm>",
+            "request": "launch",
+            "mainClass": "com.eric.thread.ThreadPrint",
+            "projectName": "algorithm"
+        }
+    ]
+}
